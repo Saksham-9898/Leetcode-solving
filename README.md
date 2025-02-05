@@ -1,2 +1,2 @@
-# Leaning-NODE.js
-I will dedicate February to learning and applying Node.js. I will also document the sources I use for studying in my README.md file.
+# Leetcode solving
+I will dedicate February to solving leetcode problems daily in public . I will also upload problems daily here in this repo . 
